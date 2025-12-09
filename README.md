@@ -1,3 +1,4 @@
+![Titanic ML Banner](https://raw.githubusercontent.com/KRISHexe520/Titanic-Survival-Prediction/main/image/titanic_banner.png)
 # 🚢 Titanic Survival Prediction — Machine Learning Project
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
